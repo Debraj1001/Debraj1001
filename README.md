@@ -44,37 +44,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-      </td>
-      <td align="left">
-        <b>Currently Exploring:</b><br>
-        <img src="https://img.shields.io/badge/Backend%20Architecture-black?style=flat-square&logo=codepen&logoColor=white" />
-        <img src="https://img.shields.io/badge/System%20Design-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Debraj's Stats](https://github-readme-stats.vercel.app/api?username=Debraj1001&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Debraj1001&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debraj1001&theme=react&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
-
-</div>
-
 ---
 
 ### 💻 Featured Projects
